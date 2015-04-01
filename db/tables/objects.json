@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Javascript, the good parts",
+    "author": "Douglas Crockford",
+    "isbn": "fsdafw3214rsfd32",
+  },
+  {
+    "id": 2,
+    "name": "Modern PHP: New Features and Good Practices",
+    "author": "Josh Lockhart",
+    "isbn": "9fg80sfdgs09u0fsdgsfd",
+  },
+  {
+    "id": 3,
+    "name": "PHP Cookbook: Solutions & Examples for PHP Programmers",
+    "author": "David Sklar and Adam Trachtenberg",
+    "isbn": "8gfsd09ug09sdaaj",
+  },
+]
